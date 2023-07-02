@@ -1661,4 +1661,14 @@ body{
       max-width: 1068px;
       margin: auto;
     }
+
+    .space{
+      width: 100%;
+    }
+
+  .container1{
+    max-width: 1068px;
+    margin: auto;
+    width: 100%;
+  }
   
